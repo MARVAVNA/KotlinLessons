@@ -1,0 +1,1 @@
+E:\KotlinProjects\PicsArt\Kotlin Koans1\Introduction\String templates\test\tests.kt
