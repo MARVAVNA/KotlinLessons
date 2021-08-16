@@ -1,9 +1,12 @@
+import kotlin.math.log
+
 class Invokable {
     var numberOfInvocations: Int = 0
         private set
 
     operator fun invoke(): Invokable {
-        TODO()
+        numberOfInvocations++
+        return this
     }
 }
 
